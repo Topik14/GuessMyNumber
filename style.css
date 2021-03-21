@@ -127,10 +127,15 @@ h1 {
     justify-content: center;
   }
 
+  h1 {
+    line-height: 1.2;
+    margin-top: 1.5rem;
+  }
+
   .left {
     text-align: center;
     width: auto;
-    margin-top: 2.5rem;
+    margin-top: 4rem;
   }
 
   .right {
